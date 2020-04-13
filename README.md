@@ -9,8 +9,13 @@ Installation
 Clone this repo to your local machine: https://github.com/andrassajo97/WebTech-II.-assigment.git
 
 $ cd app
+
 $ npm install
+
 $ cd client
+
 $ npm install
+
 $ cd ..
+
 $ npm run dev
