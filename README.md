@@ -1,4 +1,5 @@
 WebTech-II.-assigment
+
 Handball database with players and teams. Made with MERN stack.
 
 You need Node.js installed on your machine.
