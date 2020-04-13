@@ -1,0 +1,13 @@
+.landing {
+  background-image: url(./img/FF-HAND_07.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+  height: 100vh;
+}
+
+.doboz {
+  background-color: rgb(105, 105, 105, 0.9);
+}
