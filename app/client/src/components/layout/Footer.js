@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="fixed-bottom text-center footer mt-auto py-3 bg-dark">
       <div className="container">
         <span className="text-muted">
-          Copyright &copy; {new Date().getFullYear()} Handball-base - S.A.
+          Copyright &copy; {new Date().getFullYear()} Handball-base
         </span>
       </div>
     </footer>
